@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,order_amount,status
+ORD1000,CUST39,2023-05-02,Sports,Yoga Mat,3,368.68,1106.03,completed
+ORD1001,CUST40,2023-06-01,Home & Garden,Cushion,3,235.03,705.1,completed
+ORD1002,CUST38,2023-07-11,Home & Garden,Plant,1,485.26,485.26,pending
+ORD1003,CUST44,2023-12-11,Sports,Yoga Mat,1,159.08,159.08,completed
+ORD1004,CUST16,2023-09-28,Electronics,Tablet,3,205.93,617.8,completed
+ORD1005,CUST37,2023-11-03,Home & Garden,Rug,3,491.78,1475.35,completed
+ORD1006,CUST14,2023-08-30,Books,Fiction,3,16.5,49.5,cancelled
+ORD1007,CUST47,2023-09-21,Clothing,T-Shirt,2,57.86,115.72,completed
+ORD1008,CUST2,2023-02-23,Home & Garden,Plant,1,136.8,136.8,completed
+ORD1009,CUST44,2023-06-11,Clothing,Shoes,2,25.34,50.69,pending
+ORD1010,CUST8,2023-08-03,Clothing,Jeans,4,302.97,1211.88,cancelled
+ORD1011,CUST18,2023-02-22,Sports,Yoga Mat,2,169.41,338.82,completed
+ORD1012,CUST29,2023-01-15,Clothing,T-Shirt,4,307.45,1229.79,completed
+ORD1013,CUST44,2023-05-16,Books,Fiction,1,493.57,493.57,pending
+ORD1014,CUST5,2023-08-19,Home & Garden,Cushion,1,358.56,358.56,pending
+ORD1015,CUST34,2023-02-02,Clothing,T-Shirt,4,432.92,1731.68,completed
+ORD1016,CUST1,2023-08-15,Books,History,4,322.4,1289.61,cancelled
+ORD1017,CUST14,2023-12-25,Books,History,2,425.97,851.94,pending
+ORD1018,CUST13,2023-06-28,Home & Garden,Lamp,3,219.5,658.49,completed
+ORD1019,CUST23,2023-08-19,Electronics,Headphones,1,259.2,259.2,cancelled
+ORD1020,CUST7,2023-07-06,Books,History,3,109.5,328.5,cancelled
+ORD1021,CUST6,2023-10-11,Home & Garden,Plant,4,465.55,1862.21,pending
+ORD1022,CUST28,2023-08-19,Sports,Bike,4,214.09,856.36,cancelled
+ORD1023,CUST13,2023-08-21,Electronics,Laptop,1,327.37,327.37,completed
+ORD1024,CUST37,2023-08-13,Home & Garden,Cushion,2,260.27,520.53,completed
+ORD1025,CUST32,2023-04-06,Home & Garden,Plant,4,129.62,518.49,completed
+ORD1026,CUST12,2023-10-22,Electronics,Headphones,1,41.8,41.8,completed
+ORD1027,CUST49,2023-01-02,Clothing,Jacket,1,82.56,82.56,nan
+ORD1028,CUST1,2023-05-06,Clothing,Shoes,2,26.19,52.39,completed
+ORD1029,CUST4,2023-07-22,Clothing,T-Shirt,4,229.41,917.66,completed
+ORD1030,CUST34,2023-07-17,Home & Garden,Lamp,3,403.54,1210.62,completed
+ORD1031,CUST6,2023-12-15,Home & Garden,Cushion,4,401.19,1604.76,completed
+ORD1032,CUST3,2023-05-27,Home & Garden,Rug,4,342.01,1368.03,completed
+ORD1033,CUST39,2023-12-04,Sports,Bike,3,95.44,286.32,completed
+ORD1034,CUST31,2023-10-25,Electronics,Tablet,4,370.26,1481.02,completed
+ORD1035,CUST49,2023-01-02,Home & Garden,Cushion,4,95.73,382.91,nan
+ORD1036,CUST9,2023-08-21,Electronics,Headphones,2,449.64,899.27,cancelled
+ORD1037,CUST33,2023-04-26,Home & Garden,Cushion,4,424.86,1699.46,cancelled
+ORD1038,CUST35,2023-04-22,Home & Garden,Lamp,4,394.82,1579.27,completed
+ORD1039,CUST18,2023-07-13,Electronics,Tablet,1,12.48,12.48,completed
+ORD1040,CUST33,2023-10-04,Home & Garden,Rug,1,119.89,119.89,pending
+ORD1041,CUST33,2023-06-25,Sports,Bike,4,374.64,1498.57,pending
+ORD1042,CUST30,2023-02-07,Sports,Running Shoes,3,321.8,965.41,completed
+ORD1043,CUST21,2023-10-13,Books,History,2,453.99,907.98,completed
+ORD1044,CUST48,2023-05-27,Electronics,Headphones,3,251.33,754.0,completed
+ORD1045,CUST28,2023-06-07,Sports,Running Shoes,4,326.28,1305.13,completed
+ORD1046,CUST37,2023-10-07,Books,Science,1,442.91,442.91,pending
+ORD1047,CUST33,2023-04-26,Books,Fiction,2,483.66,967.32,nan
+ORD1048,CUST18,2023-10-08,Books,Fiction,4,427.06,1708.23,completed
+ORD1049,CUST24,2023-04-24,Clothing,Jacket,2,351.05,702.11,completed
+ORD1050,CUST40,2023-10-26,Clothing,Jacket,3,154.69,464.08,completed
+ORD1051,CUST24,2023-01-13,Books,Science,3,215.69,647.08,completed
+ORD1052,CUST1,2023-09-21,Sports,Dumbbell,3,255.74,767.23,pending
+ORD1053,CUST32,2023-08-03,Sports,Running Shoes,3,23.53,70.6,completed
+ORD1054,CUST22,2023-11-01,Home & Garden,Lamp,2,275.9,551.79,completed
+ORD1055,CUST37,2023-09-21,Sports,Dumbbell,2,158.6,317.2,completed
+ORD1056,CUST6,2023-12-31,Books,Art,4,482.97,1931.89,completed
+ORD1057,CUST16,2023-09-26,Sports,Dumbbell,3,352.76,1058.28,completed
+ORD1058,CUST19,2023-04-02,Clothing,Shoes,2,168.25,336.5,pending
+ORD1059,CUST23,2023-05-07,Clothing,Jacket,2,22.42,44.84,nan
+ORD1060,CUST47,2023-10-17,Electronics,Headphones,1,38.51,38.51,cancelled
+ORD1061,CUST39,2023-07-11,Electronics,Headphones,1,147.17,147.17,nan
+ORD1062,CUST16,2023-03-27,Books,Science,1,215.6,215.6,completed
+ORD1063,CUST30,2023-08-26,Electronics,Laptop,2,54.98,109.96,completed
+ORD1064,CUST21,2023-02-08,Sports,Yoga Mat,4,18.41,73.64,pending
+ORD1065,CUST10,2023-09-03,Sports,Yoga Mat,2,222.59,445.17,completed
+ORD1066,CUST19,2023-04-06,Books,Art,2,137.84,275.68,completed
+ORD1067,CUST16,2023-09-04,Electronics,Headphones,1,345.14,345.14,completed
+ORD1068,CUST24,2023-06-27,Clothing,T-Shirt,4,297.03,1188.12,cancelled
+ORD1069,CUST37,2023-09-25,Home & Garden,Rug,1,234.54,234.54,completed
+ORD1070,CUST29,2023-01-12,Home & Garden,Lamp,1,329.23,329.23,completed
+ORD1071,CUST26,2023-09-21,Clothing,T-Shirt,3,312.94,938.83,completed
+ORD1072,CUST41,2023-07-15,Books,Science,2,21.4,42.81,pending
+ORD1073,CUST36,2023-08-05,Clothing,T-Shirt,2,318.18,636.36,cancelled
+ORD1074,CUST24,2023-07-11,Books,Fiction,1,278.51,278.51,completed
+ORD1075,CUST39,2023-04-06,Home & Garden,Lamp,3,212.18,636.55,completed
+ORD1076,CUST35,2023-12-27,Books,Art,1,343.12,343.12,pending
+ORD1077,CUST13,2023-07-06,Electronics,Laptop,2,253.31,506.63,completed
+ORD1078,CUST12,2023-09-22,Home & Garden,Lamp,4,15.31,61.24,cancelled
+ORD1079,CUST47,2023-05-24,Sports,Dumbbell,3,475.8,1427.39,completed
+ORD1080,CUST21,2023-02-22,Books,Fiction,3,305.2,915.59,completed
+ORD1081,CUST14,2023-08-11,Electronics,Tablet,1,466.16,466.16,nan
+ORD1082,CUST18,2023-08-27,Clothing,T-Shirt,3,444.98,1334.93,completed
+ORD1083,CUST38,2023-01-07,Sports,Yoga Mat,2,420.11,840.22,cancelled
+ORD1084,CUST2,2023-01-05,Books,Art,2,204.36,408.72,cancelled
+ORD1085,CUST1,2023-12-08,Books,Fiction,2,493.45,986.91,completed
+ORD1086,CUST36,2023-03-11,Sports,Yoga Mat,3,454.77,1364.31,completed
+ORD1087,CUST27,2023-07-21,Sports,Running Shoes,3,390.8,1172.41,completed
+ORD1088,CUST28,2023-05-06,Clothing,Jacket,3,222.88,668.64,completed
+ORD1089,CUST39,2023-01-01,Clothing,Shoes,4,385.93,1543.7,pending
+ORD1090,CUST49,2023-11-08,Home & Garden,Lamp,4,481.46,1925.86,completed
+ORD1091,CUST32,2023-06-22,Electronics,Phone,1,481.98,481.98,completed
+ORD1092,CUST37,2023-06-13,Books,History,1,31.27,31.27,cancelled
+ORD1093,CUST49,2023-01-14,Home & Garden,Cushion,4,46.96,187.85,completed
+ORD1094,CUST11,2023-01-12,Electronics,Laptop,2,296.31,592.63,cancelled
+ORD1095,CUST28,2023-01-08,Clothing,Shoes,4,446.23,1784.92,completed
+ORD1096,CUST28,2023-08-08,Clothing,Shoes,4,237.21,948.85,completed
+ORD1097,CUST17,2023-07-20,Books,Fiction,4,493.24,1972.97,completed
+ORD1098,CUST13,2023-02-15,Electronics,Laptop,4,305.36,1221.45,completed
+ORD1099,CUST47,2023-01-10,Home & Garden,Lamp,2,475.4,950.8,pending
+ORD1100,CUST1,2023-05-26,Clothing,Jacket,1,90.77,90.77,completed
+ORD1101,CUST27,2023-06-26,Electronics,Tablet,1,377.29,377.29,completed
+ORD1102,CUST21,2023-11-07,Books,Fiction,2,28.04,56.09,completed
+ORD1103,CUST23,2023-02-22,Sports,Yoga Mat,1,499.86,499.86,nan
+ORD1104,CUST9,2023-01-01,Books,Science,2,195.15,390.29,completed
+ORD1105,CUST40,2023-10-15,Home & Garden,Lamp,1,111.54,111.54,cancelled
+ORD1106,CUST34,2023-04-28,Clothing,Shoes,3,65.64,196.93,completed
+ORD1107,CUST5,2023-08-10,Home & Garden,Cushion,2,427.57,855.14,completed
+ORD1108,CUST15,2023-08-17,Home & Garden,Lamp,1,75.67,75.67,completed
+ORD1109,CUST34,2023-10-21,Books,Science,2,404.47,808.94,cancelled
+ORD1110,CUST34,2023-11-04,Clothing,Jeans,2,202.2,404.4,completed
+ORD1111,CUST42,2023-02-20,Electronics,Phone,1,393.99,393.99,completed
+ORD1112,CUST10,2023-09-30,Electronics,Laptop,1,82.07,82.07,cancelled
+ORD1113,CUST2,2023-07-24,Sports,Bike,4,32.47,129.89,completed
+ORD1114,CUST23,2023-07-02,Home & Garden,Cushion,4,177.37,709.46,completed
+ORD1115,CUST25,2023-07-14,Home & Garden,Plant,4,324.03,1296.11,completed
+ORD1116,CUST19,2023-10-04,Home & Garden,Cushion,1,486.82,486.82,completed
+ORD1117,CUST6,2023-01-01,Books,Science,4,180.33,721.33,completed
+ORD1118,CUST14,2023-08-06,Books,Fiction,4,111.1,444.41,completed
+ORD1119,CUST22,2023-08-27,Books,History,1,55.22,55.22,completed
+ORD1120,CUST1,2023-01-08,Home & Garden,Cushion,4,39.93,159.71,completed
+ORD1121,CUST22,2023-01-14,Electronics,Tablet,1,493.27,493.27,completed
+ORD1122,CUST26,2023-01-14,Clothing,Shoes,3,270.32,810.96,pending
+ORD1123,CUST46,2023-12-29,Home & Garden,Rug,3,359.54,1078.62,cancelled
+ORD1124,CUST15,2023-07-11,Sports,Yoga Mat,2,229.23,458.46,completed
+ORD1125,CUST17,2023-08-19,Electronics,Tablet,1,99.32,99.32,completed
+ORD1126,CUST25,2023-03-09,Clothing,Jeans,4,124.28,497.1,completed
+ORD1127,CUST47,2023-02-03,Clothing,Jacket,1,254.24,254.24,completed
+ORD1128,CUST26,2023-11-16,Electronics,Headphones,3,195.6,586.8,completed
+ORD1129,CUST33,2023-05-30,Clothing,Jacket,4,254.14,1016.57,completed
+ORD1130,CUST11,2023-11-14,Books,Science,2,130.52,261.04,completed
+ORD1131,CUST36,2023-08-11,Electronics,Tablet,3,267.01,801.03,completed
+ORD1132,CUST49,2023-04-04,Clothing,Shoes,4,459.52,1838.1,completed
+ORD1133,CUST26,2023-06-22,Home & Garden,Plant,1,362.04,362.04,completed
+ORD1134,CUST20,2023-08-13,Sports,Yoga Mat,2,484.32,968.63,pending
+ORD1135,CUST38,2023-10-20,Sports,Yoga Mat,4,66.27,265.08,completed
+ORD1136,CUST6,2023-06-27,Home & Garden,Cushion,4,167.11,668.46,completed
+ORD1137,CUST40,2023-05-10,Clothing,T-Shirt,3,278.97,836.92,completed
+ORD1138,CUST11,2023-02-07,Sports,Yoga Mat,3,343.94,1031.81,pending
+ORD1139,CUST44,2023-11-30,Home & Garden,Plant,3,465.47,1396.41,pending
+ORD1140,CUST35,2023-01-01,Books,Art,3,469.79,1409.36,completed
+ORD1141,CUST14,2023-11-12,Sports,Bike,1,78.49,78.49,pending
+ORD1142,CUST26,2023-03-03,Home & Garden,Lamp,1,409.14,409.14,completed
+ORD1143,CUST8,2023-10-22,Sports,Yoga Mat,1,298.27,298.27,completed
+ORD1144,CUST33,2023-06-02,Home & Garden,Lamp,2,274.49,548.99,completed
+ORD1145,CUST40,2023-04-14,Electronics,Laptop,3,198.11,594.32,completed
+ORD1146,CUST8,2023-02-11,Home & Garden,Cushion,3,221.45,664.35,completed
+ORD1147,CUST39,2023-06-06,Sports,Running Shoes,3,313.84,941.51,completed
+ORD1148,CUST4,2023-03-27,Electronics,Laptop,1,131.76,131.76,pending
+ORD1149,CUST38,2023-06-08,Clothing,Jeans,1,439.62,439.62,completed
+ORD1150,CUST8,2023-09-18,Sports,Yoga Mat,4,305.94,1223.76,completed
+ORD1151,CUST31,2023-04-25,Books,History,4,363.9,1455.62,pending
+ORD1152,CUST20,2023-01-11,Home & Garden,Rug,4,360.93,1443.71,completed
+ORD1153,CUST26,2023-10-29,Clothing,Shoes,2,121.4,242.8,completed
+ORD1154,CUST25,2023-04-21,Home & Garden,Rug,2,297.25,594.51,completed
+ORD1155,CUST5,2023-10-20,Sports,Running Shoes,4,60.08,240.34,cancelled
+ORD1156,CUST29,2023-10-23,Clothing,T-Shirt,4,193.47,773.89,completed
+ORD1157,CUST21,2023-12-12,Electronics,Phone,3,230.91,692.73,completed
+ORD1158,CUST40,2023-05-29,Sports,Dumbbell,3,461.21,1383.64,cancelled
+ORD1159,CUST26,2023-10-18,Electronics,Laptop,1,110.73,110.73,pending
+ORD1160,CUST18,2023-12-13,Sports,Yoga Mat,2,460.73,921.46,completed
+ORD1161,CUST24,2023-01-25,Electronics,Headphones,3,26.09,78.28,cancelled
+ORD1162,CUST43,2023-05-30,Sports,Dumbbell,1,458.27,458.27,completed
+ORD1163,CUST20,2023-12-27,Clothing,Shoes,2,335.13,670.27,completed
+ORD1164,CUST40,2023-02-18,Electronics,Headphones,2,431.71,863.42,completed
+ORD1165,CUST19,2023-11-14,Electronics,Headphones,1,204.69,204.69,completed
+ORD1166,CUST19,2023-01-18,Books,Fiction,1,195.09,195.09,pending
+ORD1167,CUST28,2023-04-23,Electronics,Phone,3,232.11,696.33,completed
+ORD1168,CUST8,2023-02-24,Clothing,Jeans,2,385.02,770.05,completed
+ORD1169,CUST33,2023-03-28,Home & Garden,Rug,2,142.66,285.33,completed
+ORD1170,CUST3,2023-09-12,Sports,Bike,2,434.83,869.65,completed
+ORD1171,CUST33,2023-04-02,Books,Art,2,176.24,352.49,completed
+ORD1172,CUST46,2023-06-14,Clothing,Jacket,4,494.48,1977.91,completed
+ORD1173,CUST10,2023-09-20,Books,Science,3,168.76,506.27,completed
+ORD1174,CUST36,2023-10-12,Electronics,Tablet,1,23.0,23.0,completed
+ORD1175,CUST11,2023-08-22,Sports,Dumbbell,2,456.21,912.41,completed
+ORD1176,CUST37,2023-09-13,Clothing,Jacket,3,26.77,80.32,pending
+ORD1177,CUST22,2023-12-30,Electronics,Phone,1,154.29,154.29,cancelled
+ORD1178,CUST32,2023-07-28,Electronics,Phone,2,248.84,497.68,cancelled
+ORD1179,CUST45,2023-10-08,Clothing,Jacket,1,141.65,141.65,completed
+ORD1180,CUST29,2023-04-19,Electronics,Phone,2,419.12,838.23,nan
+ORD1181,CUST21,2023-02-11,Clothing,Jacket,1,19.01,19.01,cancelled
+ORD1182,CUST38,2023-03-17,Sports,Yoga Mat,2,42.92,85.83,completed
+ORD1183,CUST6,2023-08-07,Books,Science,2,77.07,154.15,cancelled
+ORD1184,CUST45,2023-07-09,Clothing,Shoes,1,335.87,335.87,completed
+ORD1185,CUST1,2023-11-03,Clothing,Jeans,4,183.4,733.59,nan
+ORD1186,CUST40,2023-01-11,Books,Art,3,130.22,390.66,completed
+ORD1187,CUST34,2023-02-24,Sports,Yoga Mat,3,155.59,466.77,completed
+ORD1188,CUST19,2023-08-15,Books,Art,1,142.26,142.26,completed
+ORD1189,CUST34,2023-07-20,Sports,Running Shoes,1,253.22,253.22,completed
+ORD1190,CUST1,2023-08-05,Clothing,Jeans,1,178.75,178.75,completed
+ORD1191,CUST3,2023-08-17,Books,History,4,223.07,892.26,completed
+ORD1192,CUST19,2023-04-11,Sports,Bike,3,143.35,430.05,completed
+ORD1193,CUST49,2023-10-30,Sports,Running Shoes,3,481.43,1444.29,pending
+ORD1194,CUST21,2023-03-22,Sports,Dumbbell,4,437.74,1750.97,pending
+ORD1195,CUST25,2023-09-25,Books,Science,4,426.11,1704.42,completed
+ORD1196,CUST10,2023-01-16,Home & Garden,Plant,1,472.59,472.59,completed
+ORD1197,CUST14,2023-12-01,Electronics,Tablet,2,288.29,576.59,cancelled
+ORD1198,CUST23,2023-03-23,Books,History,1,104.37,104.37,completed
+ORD1199,CUST17,2023-01-14,Sports,Running Shoes,3,166.36,499.08,pending
