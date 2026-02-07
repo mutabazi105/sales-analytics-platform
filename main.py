@@ -1,6 +1,6 @@
-"""
+""""
 Main entry point for Sales Analytics Platform
-"""
+""""
 from analyzer import SalesAnalyzer
 from algorithms import compare_sorting, compare_searching
 
@@ -20,7 +20,7 @@ def main():
     analyzer.export_clean_data()
 
     # 2. Business analysis
-    print("\n2. Performing business analysis...")
+    print("\n2. Performing business analysis..")
     answers = analyzer.answer_business_questions()
 
     print("\n" + "="*50)
