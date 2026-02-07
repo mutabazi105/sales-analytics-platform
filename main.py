@@ -55,7 +55,7 @@ def main():
         print(f"  {algo}: {time_taken:.6f} seconds")
 
     print("\n" + "="*50)
-    print("✅ PROJECT COMPLETED SUCCESSFULLY!")
+    print("✅ PROJECT COMPLETED SUCCESSFULLY!!")
     print("="*50)
 
 
